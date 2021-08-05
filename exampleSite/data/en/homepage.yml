@@ -30,10 +30,10 @@ features:
   - title: Home Movies
     icon: tf-ion-ios-alarm-outline
     content: Digitize your home movies from VHS, Betamax, DIGITAL8, MICROMV, and more!
-  - title: Elegant Design
+  - title: Music
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: From wax cylinder phonographs to CDs, you can back up and listen to all
+      of your favorite music.
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
