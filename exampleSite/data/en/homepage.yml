@@ -16,8 +16,8 @@ features:
   left_side:
   - title: Books
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Back up your book collection and have a digitally searchable library.
+      Our omni-scanner even captures your handwritten notes in the margins!
   - title: Musical Scores
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
