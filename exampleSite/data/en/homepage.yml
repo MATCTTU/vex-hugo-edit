@@ -80,7 +80,7 @@ subscription:
     you. You can set your preferences in the confirmation email.
   placeholder: Your email address
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
