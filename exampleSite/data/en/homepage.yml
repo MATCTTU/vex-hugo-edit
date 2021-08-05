@@ -41,7 +41,7 @@ features:
       and USB drives!
 promo:
   enable: true
-  image: ''
+  image: "/images/book-ebook.jpg"
   title: Bringing physical media into the digital world
   content: You should not lose access to your memories or purchases just because some
     technology became obsolete. Archive.it can help you access any media and keep
