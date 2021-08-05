@@ -70,7 +70,7 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
   enable: true
