@@ -41,7 +41,7 @@ features:
       and USB drives!
 promo:
   enable: true
-  image: images/watch.png
+  image: ''
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
@@ -49,7 +49,7 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: What we do
   items:
   - image: "/images/scan-anything.png"
     title: Scan (almost) anything
