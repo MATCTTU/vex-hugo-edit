@@ -29,7 +29,8 @@ features:
   right_side:
   - title: Home Movies
     icon: tf-ion-ios-alarm-outline
-    content: Digitize your home movies from VHS, Betamax, DIGITAL8, MICROMV, and more!
+    content: Digitize your home movies from VHS, Betamax, DIGITAL8, LaserDisc, and
+      more!
   - title: Music
     icon: tf-ion-ios-bell-outline
     content: From wax cylinder phonographs to CDs, you can back up and listen to all
