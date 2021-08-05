@@ -9,8 +9,8 @@ banner:
   image: images/wan_shi_tong.jpg
   button:
     enable: true
-    label: Browse All Products
-    link: products
+    label: See our features
+    link: "#features"
 features:
   enable: true
   title: Our Core Features
