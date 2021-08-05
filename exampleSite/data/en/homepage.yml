@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: See our features
-    link: features
+    link: blog
 features:
   enable: true
   title: Supported Media
