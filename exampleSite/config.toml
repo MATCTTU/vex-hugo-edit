@@ -31,7 +31,7 @@ weight = 3
 [[menu.main]]
 name = "Buy (Coming soon)"
 pre = ""
-url = "#"
+url = "/products/product-1/"
 weight = 4
 [params]
 author = "Themefisher"
