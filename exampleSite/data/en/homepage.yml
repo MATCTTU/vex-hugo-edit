@@ -51,11 +51,13 @@ about_product:
   enable: true
   title: Why Choose Apple Watch
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: "/images/scan-anything.png"
+    title: Scan (almost) anything
+    content: You can user the Archive.it omni-scanner to digitize almost anything!
+      But for best/most helpful results, stick to scanning media like books or tapes.
+      Remember that the omni-scanner doesn't only work on physical mediums. You can
+      also archive already digital files by scanning floppy disks, SD cards, and USB
+      sticks!
     button:
       enable: false
       label: Check Features
