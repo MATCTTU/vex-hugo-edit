@@ -18,10 +18,9 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: Back up your book collection and have a digitally searchable library.
       Our omni-scanner even captures your handwritten notes in the margins!
-  - title: Musical Scores
+  - title: Music Scores
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Keep your originals safe and let your '
   - title: Photo Albums
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
