@@ -42,11 +42,10 @@ features:
 promo:
   enable: true
   image: ''
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Bringing physical media into the digital world
+  content: You should not lose access to your memories or purchases just because some
+    technology became obsolete. Archive.it can help you access any media and keep
+    it safe within your home network or on our private cloud.
 about_product:
   enable: true
   title: What we do
