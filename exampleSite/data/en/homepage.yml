@@ -23,8 +23,8 @@ features:
     content: 'Keep your originals safe and let your '
   - title: Photo Albums
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: You don't have to scan photos one at a time. Save an entire album with
+      a single scan!
   right_side:
   - title: Home Movies
     icon: tf-ion-ios-alarm-outline
