@@ -11,7 +11,7 @@ banner:
     link: features
 features:
   enable: true
-  title: Our Core Features
+  title: Supported Media
   image: images/watch-2.png
   left_side:
   - title: Books
