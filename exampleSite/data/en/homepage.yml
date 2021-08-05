@@ -27,10 +27,9 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: VHS Tapes
+  - title: Home Movies
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Digitize your home movies from VHS, Betamax, DIGITAL8, MICROMV, and more!
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
