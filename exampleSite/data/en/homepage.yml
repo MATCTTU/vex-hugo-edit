@@ -12,7 +12,7 @@ banner:
 features:
   enable: true
   title: Supported Media
-  image: images/loading.gif
+  image: images/loading-2.gif
   left_side:
   - title: Books
     icon: tf-ion-ios-alarm-outline
