@@ -35,10 +35,9 @@ features:
     icon: tf-ion-ios-bell-outline
     content: From wax cylinder phonographs to CDs, you can back up and listen to all
       of your favorite music.
-  - title: Easy Pricing
+  - title: External storage
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Even access files from everything from floppy discs and USB drives!
 promo:
   enable: true
   image: images/watch.png
