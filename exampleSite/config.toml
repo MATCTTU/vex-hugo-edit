@@ -17,7 +17,7 @@ name = ""
 url = ""
 weight = ""
 [[menu.footer]]
-name = "Blog"
+name = "Features"
 url = "blog"
 weight = 1
 [[menu.main]]
