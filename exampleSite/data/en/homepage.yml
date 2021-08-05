@@ -2,10 +2,8 @@
 banner:
   enable: true
   title: Hope for the best. Prepare for the worst. Archive.it
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: Use our patented omni-scanner to make archival copies of ANY media with
+    a single scan.
   image: images/wan_shi_tong.jpg
   button:
     enable: true
