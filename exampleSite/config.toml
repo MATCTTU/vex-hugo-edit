@@ -29,7 +29,7 @@ name = "Features"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Buy (Coming soon)"
+name = "Buy"
 pre = ""
 url = "/products/product-1/"
 weight = 4
