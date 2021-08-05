@@ -29,9 +29,9 @@ name = "Features"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Review"
-pre = "#"
-url = "testimonial"
+name = "Buy (Coming soon)"
+pre = ""
+url = "#"
 weight = 4
 [params]
 author = "Themefisher"
