@@ -37,7 +37,8 @@ features:
       of your favorite music.
   - title: External storage
     icon: tf-ion-ios-cart-outline
-    content: Even access files from everything from floppy discs and USB drives!
+    content: Even access files from all of your external devices, from floppy discs
+      and USB drives!
 promo:
   enable: true
   image: images/watch.png
