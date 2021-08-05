@@ -16,8 +16,8 @@ features:
   left_side:
   - title: Books
     icon: tf-ion-ios-alarm-outline
-    content: Back up your book collection and have a digitally searchable library.
-      Our omni-scanner even captures your handwritten notes in the margins!
+    content: Back up your book collection and have a fully digitally and searchable
+      library.
   - title: Music Scores
     icon: tf-ion-ios-bell-outline
     content: 'Keep your originals safe and let your '
