@@ -13,7 +13,7 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
+name = "Features"
 url = "blog"
 weight = 1
 [[menu.main]]
