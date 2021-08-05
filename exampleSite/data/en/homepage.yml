@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: Hope for the best. Prepare for the worst. Archive.it
-  content: Use our patented omni-scanner to make archival copies of ANY media with
-    a single scan.
+  content: Use our patented omni-scanner to make digital archival copies of ANY media
+    with a single scan.
   image: images/wan_shi_tong.jpg
   button:
     enable: true
