@@ -57,3 +57,24 @@ The final issue again returns to copyright. Despite the precedent allowing peopl
 
 Regardless, the first next step is to find legal representation to help Archive.it navigate copyright law. Archive.it could likely go ahead with releasing its online Cloud service to those in need of a remote backup, but that’s already a strongly saturated market and doing so likely wouldn’t turn a profit any time soon. Marketing and selling to large libraries and museums would be a good step before releasing omni-scanner products to the wider market.
 
+## References
+
+Bloom, Paul, and Matthew Jordan. “Opinion | Are We All ‘Harmless Torturers’ Now?” The New York Times, August 9, 2018, sec. Opinion. https://www.nytimes.com/2018/08/09/opinion/are-we-all-harmless-torturers-now.html.
+Guadamuz, Andrés. “Trouble with Prime Numbers: Decss, Dvd and the Protection of Proprietary Encryption Tools.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, July 28, 2004. https://papers.ssrn.com/abstract=569103.
+Hussman, Mary Eliza. “Valuing Newspaper Website Content: What People Are Willing to Pay for and Why.” Accessed August 6, 2021. https://doi.org/10.17615/PQBF-2D77.
+Kyrnin, Mark. “Why Do Most New PCs Not Come With DVD or Blu-Ray Drives?” Lifewire. Accessed August 6, 2021. https://www.lifewire.com/death-of-the-computer-optical-drive-832403.
+“Manage | FreeLogoDesign.” Accessed August 6, 2021. https://www.freelogodesign.org/manager/signin?r=https%3A%2F%2Fwww.freelogodesign.org%2Fmanager%2Fshowcase%2F739ceac63f764583865c1d1cfbcc8c4e.
+Shift Credit Card Processing. “No Cost Credit Card Processing for Small Business,” May 10, 2016. https://shiftprocessing.com/no-cost-credit-card-processing/.
+Noble, Barnes &. “How to Download EBooks FREE: Over One Million Titles Available|NOOK Book.” Barnes & Noble. Accessed August 6, 2021. https://www.barnesandnoble.com/w/how-to-download-ebooks-free-melissa-lavendier/1124589821.
+Norman, Don. The Design of Future Things. Basic Books, 2009.
+Owl Loader. Accessed August 6, 2021. https://cdn.dribbble.com/users/1438321/screenshots/3778346/untitled-2.gif.
+Peng, Donna. “DVD Digital Copyright Laws in US, UK, Japan, Australia...” Accessed August 3, 2021. https://www.winxdvd.com/resource/dvd-copyright-infringement-laws.htm.
+KindPNG.com. “Subscription Icon Png, Transparent Png - Kindpng.” Accessed August 6, 2021. https://www.kindpng.com/imgv/imiRbTi_subscription-icon-png-transparent-png/.
+Sydell, Laura. “How Long Do CDs Last? It Depends, But Definitely Not Forever.” NPR.org. Accessed August 6, 2021. https://www.npr.org/sections/alltechconsidered/2014/08/18/340716269/how-long-do-cds-last-it-depends-but-definitely-not-forever.
+TeamViewer. “TeamViewer: The Remote Desktop Software.” Accessed August 6, 2021. https://www.teamviewer.com/en-us/.
+Copyright.gov. “The Digital Millennium Copyright Act of 1998,” n.d. https://www.copyright.gov/legislation/dmca.pdf.
+3D Printing Industry. “The Matter and Form 3D Scanner Is Here!,” September 14, 2014. https://3dprintingindustry.com/news/rejoice-affordable-matter-form-3d-scanner-32946/.
+Pngtree. “Vector Vault Icon, Vault Icons, Bank Vault Icon, Safe Icon PNG and Vector with Transparent Background for Free Download.” Accessed August 6, 2021. https://pngtree.com/freepng/vector-vault-icon_3782885.html.
+Villains Wiki. “Wan Shi Tong.” Accessed August 6, 2021. https://villains.fandom.com/wiki/Wan_Shi_Tong.
+Yap, Keong, and Jessica R. Grisham. “Unpacking the Construct of Emotional Attachment to Objects and Its Association with Hoarding Symptoms.” Journal of Behavioral Addictions 8, no. 2 (June 1, 2019): 249–58. https://doi.org/10.1556/2006.8.2019.15.
+“ZoteroBib: Fast, Free Bibliography Generator - MLA, APA, Chicago, Harvard Citations.” Accessed August 6, 2021. https://zbib.org/059b4b098f1d41c58534712f1bf9b933.
