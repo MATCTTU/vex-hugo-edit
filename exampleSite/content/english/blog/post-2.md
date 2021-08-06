@@ -5,9 +5,9 @@ image: "/images/copyright.jpg"
 description: this is a meta description
 
 ---
-We abide by current interpretations of copyright law in each local market. Most recent interpretations of the Digital Millennium Copyright Act as well as Title 17 of the United States State Code that make "the act of circumvention in itself" illegal. Therefore, commercial DVD and Blu-ray discs are not currently supported despite the fact that literally every DVD player circumvents encryption to be able to play each disc. Regardless, until the current interpretation of the law changes, commercial DVDs and Blu-rays will not be supported.
+We abide by current interpretations of copyright law in each local market. Most recent interpretations of the Digital Millennium Copyright Act as well as Title 17 of the United States State Code that make "the act of circumvention in itself" illegal. Therefore, commercial DVD and Blu-ray discs are not currently supported despite the fact that literally every DVD player circumvents encryption to be able to play each disc. Regardless, until the current interpretation of the law changes, devices active in restricted zones as designated by IP addresses will not support archiving commercial DVDs and Blu-rays.
 
-However, it is legal to archive encrypted media in the following countries:
+Note that it is legal to archive encrypted media in the following countries:
 
 * Netherlands
 * Norway
