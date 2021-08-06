@@ -5,7 +5,7 @@ image: "/images/subscribe-1.png"
 description: this is a meta description
 
 ---
-We support using local hard drives to store your archives, but this means you can only access your archives locally. A workaround is to create a Networked Attached Storage (NAS) device, properly setting this up requires technical and security knowledge. If you haven't already worked in a data center or IT role, this may not be feasible.
+We support using local hard drives to store your archives, but this means you can only access your archives locally. A workaround is to create a Networked Attached Storage (NAS) device, but properly setting this up requires technical and security knowledge. If you haven't already worked in a data center or IT role, this may not be feasible.
 
 If you want a maintenance-free way to access your files from anywhere with an internet connection through our web app or mobile apps, subscribe to one of our plans:
 
