@@ -15,4 +15,4 @@ To create an archive, perform the following steps:
 
 And that's it! Within minutes you'll have access to your digital backup.
 
-There's additional features, too. For example, you can toggle settings for books to include handwritten notes in the margin or not, or you can have video stabilization run automatically on the videos you short from your handheld VHS camcorder. For more information as media-specific features, see our \[docs\](#).
+There's additional features, too. For example, you can toggle settings for books to include handwritten notes in the margin or not, or you can have video stabilization run automatically on the videos you short from your handheld VHS camcorder. For more information as media-specific features, see our documentation.
