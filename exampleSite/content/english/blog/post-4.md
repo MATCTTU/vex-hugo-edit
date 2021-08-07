@@ -18,7 +18,7 @@ With the pay as you go plan you only pay for the amount of data stored and strea
 
 > This plan is best suited for avid readers as ebooks are small file sizes.
 
-We bill at a rate is $0.05 USD per GB every month.
+We bill at a rate of $0.05 USD per GB every month.
 
 Note that we do not currently delineate between Standard and Cold storage rates.
 
